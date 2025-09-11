@@ -46,7 +46,7 @@ First star & Fork the repo using the button below!
 
 
 #### ❄  OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://boyxa-pair.onrender.com/pair)
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://boyxa-session.onrender.com)
 
 > Connection issues may require VPN activation.
 
